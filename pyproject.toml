@@ -1,0 +1,2 @@
+[tool.vercel]
+entrypoint = "tests.mcp_llm_stub:Handler"
