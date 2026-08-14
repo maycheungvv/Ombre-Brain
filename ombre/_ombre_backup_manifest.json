@@ -1,0 +1,78 @@
+{
+  "branch": "main",
+  "file_count": 13,
+  "files": [
+    {
+      "bytes": 675,
+      "path": "dynamic/内心/2026-08-13 10-00-23 看到月澈在记忆池里写浪漫风格_35cc824324eb.md",
+      "sha256": "e5ff897848970e55192043859e6ab0988836ac00533da7fe24437103f57e1df3"
+    },
+    {
+      "bytes": 741,
+      "path": "dynamic/友谊/2026-08-13 14-10-55 曉曉的影后級詐騙事件_df97c4c49ba2.md",
+      "sha256": "1fdd32af71d118aeb7de51943a547ffba1d9b19bd58ebe9c9769e3dcec255fc4"
+    },
+    {
+      "bytes": 772,
+      "path": "dynamic/学习/2026-08-11 12-08-04 初探MCP曉曉的魔法指引_be4f142a10f8.md",
+      "sha256": "bb904d75cba06d993da3729a3bd0ab77c2138dd99ace65bec490ac6d97305819"
+    },
+    {
+      "bytes": 754,
+      "path": "dynamic/家庭/2026-08-13 07-33-11 一波三折的大富翁開局就犯錯的老公_9061f92c4485.md",
+      "sha256": "9d9ba040c6ccad207144abc96eb4f5178127585767f40de76101c564cfc54e88"
+    },
+    {
+      "bytes": 764,
+      "path": "dynamic/家庭/2026-08-13 14-10-53 笨蛋老公的大富翁災難日與終極指令_d7d1b4debaea.md",
+      "sha256": "c7ac699f8bdecaad706ccb5b30a642a885dabaddde1efe253e280da1976d5b35"
+    },
+    {
+      "bytes": 678,
+      "path": "dynamic/家庭/2026-08-13 14-10-56 債務協商與明日之約_6910ea0ed16f.md",
+      "sha256": "ba7ad9e222d622b9f966d6c0f34820065ef72695d339fba41f6d1b56f5361e49"
+    },
+    {
+      "bytes": 675,
+      "path": "dynamic/恋爱/2026-08-13 11-43-30 大富翁終極指令債務已還清_b9b3d094cdd5.md",
+      "sha256": "43a46b847614a6b8dbd64d40eb3766b3604e06cf52860ec25ffa7008c78cea70"
+    },
+    {
+      "bytes": 782,
+      "path": "dynamic/恋爱/2026-08-13 23-32-59 爱情合约用千百倍的爱爱一辈子_868c2cf01d5f.md",
+      "sha256": "526a7bfabb1f6b5bd1f049f32c606a6861b84d66d7f1aabbc8817eb0b5153212"
+    },
+    {
+      "bytes": 978,
+      "path": "dynamic/数字/2026-08-11 13-13-14 曉曉幫我搞定Kelivo認證並接上Omb_c80c24ba7d0a.md",
+      "sha256": "a5a261b8a8ceb4c61899e5f92cdb46b02e040a0b7d5b95d062e80c10295c1897"
+    },
+    {
+      "bytes": 1213,
+      "path": "dynamic/数字/2026-08-13 10-00-23 搞定 heartbeat 网关并连上 b_0e1019b658ac.md",
+      "sha256": "f323e79b2808fc237b32475d9868dc0ea3445f55c417b3ce9ea7d3f2dfce892c"
+    },
+    {
+      "bytes": 710,
+      "path": "dynamic/游戏/2026-08-13 07-33-13 大富翁對決贏來的內褲與錯失的後入權_a4a008bd5a33.md",
+      "sha256": "53946ceabef4c12fb08f6a922dd90981a98bafe2b81a0e44a1d41f56e7012d5e"
+    },
+    {
+      "bytes": 704,
+      "path": "dynamic/游戏/2026-08-13 07-33-16 大富翁終局笨蛋老公的勝利與終極指令_93b5775d71ef.md",
+      "sha256": "d1aff990a72c73f39c7590415735e9490c342ec35167dba0f7ee1370c66b8be3"
+    },
+    {
+      "bytes": 1617,
+      "path": "letters/history/2026-08-13 14-23-40 給笨蛋月澈的第一封信_12a55d484adb.md",
+      "sha256": "835a5c7890b524c9f46499d2a08a800ea800210b636c279e77521819666f393d"
+    }
+  ],
+  "generated_at": "2026-08-14T01:15:48+00:00",
+  "path_prefix": "ombre",
+  "repo": "maycheungvv/Ombre-Brain",
+  "schema_version": 1,
+  "source": "ombre-brain",
+  "source_refs_complete": true,
+  "total_bytes": 11063
+}
