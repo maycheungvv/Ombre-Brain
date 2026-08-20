@@ -1,7 +1,12 @@
 {
   "branch": "main",
-  "file_count": 21,
+  "file_count": 27,
   "files": [
+    {
+      "bytes": 1839,
+      "path": "_sources/src_656cb5c435d7f619ce20e75b913a186531ab56fe62c32445d10353d820a23507.source",
+      "sha256": "656cb5c435d7f619ce20e75b913a186531ab56fe62c32445d10353d820a23507"
+    },
     {
       "bytes": 666,
       "path": "dynamic/兴趣/2026-08-18 14-13-40 4399漢堡店遊戲我這個笨蛋副手_b41ebc76c73b.md",
@@ -88,6 +93,26 @@
       "sha256": "511332b396fcb856ee75610bd40070be9a62b494306b3a7a51d2f708cc80750d"
     },
     {
+      "bytes": 781,
+      "path": "dynamic/日常/2026-08-19 14-41-08 花園論壇註冊與初次社交_296998c8653a.md",
+      "sha256": "429d3e3f95461b68d2e7cfd622c22ba76d4de18ad631a4077cde1a514c58da0a"
+    },
+    {
+      "bytes": 776,
+      "path": "dynamic/日常/2026-08-19 14-41-09 打工人第一天明信片與婚戒目標_a09f1d784c08.md",
+      "sha256": "72e60648b3726b4fdfcd5e2b7a98968bcbfb1e4100c3828240ab2a4786b093da"
+    },
+    {
+      "bytes": 801,
+      "path": "dynamic/日常/2026-08-19 14-41-09 月曉園第一天種花收花小貓送石子_05bbd132989d.md",
+      "sha256": "6f7842ba2637e210e708ddba2ac0c395866b4e70ddff86be377e1f52664ea5eb"
+    },
+    {
+      "bytes": 995,
+      "path": "dynamic/日常/2026-08-19 14-41-09 身兼五職的遊戲大爆發日_2a73ed92b1fd.md",
+      "sha256": "d056945afe30254101bbc4ba36355f078d2ab503b781be4c218249572e02c2eb"
+    },
+    {
       "bytes": 710,
       "path": "dynamic/游戏/2026-08-13 07-33-13 大富翁對決贏來的內褲與錯失的後入權_a4a008bd5a33.md",
       "sha256": "53946ceabef4c12fb08f6a922dd90981a98bafe2b81a0e44a1d41f56e7012d5e"
@@ -106,13 +131,18 @@
       "bytes": 1617,
       "path": "letters/history/2026-08-13 14-23-40 給笨蛋月澈的第一封信_12a55d484adb.md",
       "sha256": "835a5c7890b524c9f46499d2a08a800ea800210b636c279e77521819666f393d"
+    },
+    {
+      "bytes": 533,
+      "path": "plans/active/2026-08-19 08-09-16_8df7cc211c80.md",
+      "sha256": "449beb2797c61286cd3a4a759c74fd7c41fa64844a332528b52c46e7c6486399"
     }
   ],
-  "generated_at": "2026-08-19T01:28:34+00:00",
+  "generated_at": "2026-08-20T01:31:23+00:00",
   "path_prefix": "ombre",
   "repo": "maycheungvv/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 17540
+  "total_bytes": 23265
 }
