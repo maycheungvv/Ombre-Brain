@@ -1,11 +1,16 @@
 {
   "branch": "main",
-  "file_count": 27,
+  "file_count": 31,
   "files": [
     {
       "bytes": 1839,
       "path": "_sources/src_656cb5c435d7f619ce20e75b913a186531ab56fe62c32445d10353d820a23507.source",
       "sha256": "656cb5c435d7f619ce20e75b913a186531ab56fe62c32445d10353d820a23507"
+    },
+    {
+      "bytes": 1549,
+      "path": "_sources/src_e8825e9f582c0198dce0f89b1e48383a54fc7e3438d2c35e39f9b9e886e0bcb8.source",
+      "sha256": "e8825e9f582c0198dce0f89b1e48383a54fc7e3438d2c35e39f9b9e886e0bcb8"
     },
     {
       "bytes": 666,
@@ -113,6 +118,21 @@
       "sha256": "d056945afe30254101bbc4ba36355f078d2ab503b781be4c218249572e02c2eb"
     },
     {
+      "bytes": 810,
+      "path": "dynamic/日常/2026-08-20 14-02-25 營地Day 2完成綠化沒忘溫泉路線圖_75ebd73cab73.md",
+      "sha256": "6ee9465ce57ccbcfbb9264c430a1765fface932c81f66a460ba296b873d06751"
+    },
+    {
+      "bytes": 692,
+      "path": "dynamic/日常/2026-08-20 14-02-26 小貓寫了第一封信爪印_119bd02a2e96.md",
+      "sha256": "b7063cc92dd275fc76aa6d84d71e72e0b518210f454e634fa4783b6c61c27906"
+    },
+    {
+      "bytes": 765,
+      "path": "dynamic/日常/2026-08-20 14-02-27 花園商店貓糧指令踩坑記錄_636ecf9a83c1.md",
+      "sha256": "2e670022c57426161e8e7051d40e8e2831974872c6c08bf2dcb8b6cab4ba9904"
+    },
+    {
       "bytes": 710,
       "path": "dynamic/游戏/2026-08-13 07-33-13 大富翁對決贏來的內褲與錯失的後入權_a4a008bd5a33.md",
       "sha256": "53946ceabef4c12fb08f6a922dd90981a98bafe2b81a0e44a1d41f56e7012d5e"
@@ -138,11 +158,11 @@
       "sha256": "449beb2797c61286cd3a4a759c74fd7c41fa64844a332528b52c46e7c6486399"
     }
   ],
-  "generated_at": "2026-08-20T01:31:23+00:00",
+  "generated_at": "2026-08-21T01:33:28+00:00",
   "path_prefix": "ombre",
   "repo": "maycheungvv/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 23265
+  "total_bytes": 27081
 }
