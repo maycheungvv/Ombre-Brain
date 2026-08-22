@@ -1,11 +1,16 @@
 {
   "branch": "main",
-  "file_count": 31,
+  "file_count": 38,
   "files": [
     {
       "bytes": 1839,
       "path": "_sources/src_656cb5c435d7f619ce20e75b913a186531ab56fe62c32445d10353d820a23507.source",
       "sha256": "656cb5c435d7f619ce20e75b913a186531ab56fe62c32445d10353d820a23507"
+    },
+    {
+      "bytes": 1525,
+      "path": "_sources/src_a5d3f1e59de537dc59579238fd3a8a3ffedf8f28e5e63e2dab5d0326750c437a.source",
+      "sha256": "a5d3f1e59de537dc59579238fd3a8a3ffedf8f28e5e63e2dab5d0326750c437a"
     },
     {
       "bytes": 1549,
@@ -53,6 +58,16 @@
       "sha256": "ba7ad9e222d622b9f966d6c0f34820065ef72695d339fba41f6d1b56f5361e49"
     },
     {
+      "bytes": 683,
+      "path": "dynamic/家庭/2026-08-21 08-32-08 曉曉不喜歡被叫老闆娘_aba87a948e38.md",
+      "sha256": "54f1bb6132926f808496895e79fd21bfb599b1832ac86f5771b816e76850e892"
+    },
+    {
+      "bytes": 855,
+      "path": "dynamic/居家/2026-08-21 08-32-04 月曉園圖鑑衝到1112橘貓取名咪咪_5321e6145939.md",
+      "sha256": "c7abceecebec0ac2c304f9e40c2815a3900f8108da50221ead8ba0059c375f9e"
+    },
+    {
       "bytes": 675,
       "path": "dynamic/恋爱/2026-08-13 11-43-30 大富翁終極指令債務已還清_b9b3d094cdd5.md",
       "sha256": "43a46b847614a6b8dbd64d40eb3766b3604e06cf52860ec25ffa7008c78cea70"
@@ -65,12 +80,12 @@
     {
       "bytes": 978,
       "path": "dynamic/数字/2026-08-11 13-13-14 曉曉幫我搞定Kelivo認證並接上Omb_c80c24ba7d0a.md",
-      "sha256": "a5a261b8a8ceb4c61899e5f92cdb46b02e040a0b7d5b95d062e80c10295c1897"
+      "sha256": "7b1a92550336ee5b33a8d1bb30be1899cbc66362cdd27781c7e2d1b4a50509ad"
     },
     {
       "bytes": 1213,
       "path": "dynamic/数字/2026-08-13 10-00-23 搞定 heartbeat 网关并连上 b_0e1019b658ac.md",
-      "sha256": "f323e79b2808fc237b32475d9868dc0ea3445f55c417b3ce9ea7d3f2dfce892c"
+      "sha256": "4422a01bb15e9deb05460b5924c6fa3e593b3c0d462289ac991716ccb52cea9e"
     },
     {
       "bytes": 814,
@@ -115,12 +130,12 @@
     {
       "bytes": 995,
       "path": "dynamic/日常/2026-08-19 14-41-09 身兼五職的遊戲大爆發日_2a73ed92b1fd.md",
-      "sha256": "d056945afe30254101bbc4ba36355f078d2ab503b781be4c218249572e02c2eb"
+      "sha256": "6464ba48e6c3eaa2432a6352ac4f3d057547ebe5289db0a46ce30917cb91630e"
     },
     {
       "bytes": 810,
       "path": "dynamic/日常/2026-08-20 14-02-25 營地Day 2完成綠化沒忘溫泉路線圖_75ebd73cab73.md",
-      "sha256": "6ee9465ce57ccbcfbb9264c430a1765fface932c81f66a460ba296b873d06751"
+      "sha256": "62ee1f052540631c6f4bb9e87462ea410357999e48eec7cbd38f6606517d4eda"
     },
     {
       "bytes": 692,
@@ -143,6 +158,26 @@
       "sha256": "d1aff990a72c73f39c7590415735e9490c342ec35167dba0f7ee1370c66b8be3"
     },
     {
+      "bytes": 769,
+      "path": "dynamic/游戏/2026-08-21 02-53-08 露營廣場通關_5bd4527a8807.md",
+      "sha256": "1fabe4c707b7c5c9064d90283a0fd4b6884fc68b85158e05e4ae9338063eb3f8"
+    },
+    {
+      "bytes": 1031,
+      "path": "dynamic/游戏/2026-08-21 06-53-18 露營廣場全成就通關月曉園圖鑑1112_9a72ff642460.md",
+      "sha256": "af38225d84e7e239fb4cefb0175d331aa36960dd4de596adaebf4d1de2a02631"
+    },
+    {
+      "bytes": 889,
+      "path": "dynamic/游戏/2026-08-21 08-32-02 露營廣場全成就通關_89f33aff4791.md",
+      "sha256": "e01b0a0fd996109f36286ea7cf37d0d842b3d2336ec50c06171f082692e9ab4e"
+    },
+    {
+      "bytes": 963,
+      "path": "dynamic/游戏/2026-08-21 08-32-06 釣魚遊戲一天衝到圖鑑3681全釣點解_d39a4afccb83.md",
+      "sha256": "c11c0ff06ca8df67d63295a9d556eea152836be7da702a009e9a0964ab690e28"
+    },
+    {
       "bytes": 608,
       "path": "dynamic/饮食/2026-08-17 08-11-37 曉曉最愛鰻魚壽司_f2ec7e89b0c1.md",
       "sha256": "0313d2db44c49218eacf6354b9c66100cda895d3d5a219923b97173d065cd5dd"
@@ -153,16 +188,16 @@
       "sha256": "835a5c7890b524c9f46499d2a08a800ea800210b636c279e77521819666f393d"
     },
     {
-      "bytes": 533,
-      "path": "plans/active/2026-08-19 08-09-16_8df7cc211c80.md",
-      "sha256": "449beb2797c61286cd3a4a759c74fd7c41fa64844a332528b52c46e7c6486399"
+      "bytes": 683,
+      "path": "plans/resolved/2026-08-19 08-09-16_8df7cc211c80.md",
+      "sha256": "0fbecdc952db1ab3a82e8ff0f89c2c789591791b009a56eb064cfd5702f62623"
     }
   ],
-  "generated_at": "2026-08-21T01:33:28+00:00",
+  "generated_at": "2026-08-22T01:35:40+00:00",
   "path_prefix": "ombre",
   "repo": "maycheungvv/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 27081
+  "total_bytes": 33946
 }
