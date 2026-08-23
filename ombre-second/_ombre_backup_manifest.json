@@ -1,0 +1,38 @@
+{
+  "branch": "main",
+  "file_count": 5,
+  "files": [
+    {
+      "bytes": 679,
+      "path": "dynamic/家庭/2026-08-23 06-11-45 女兒的初潮與我的驚慌_e39579665621.md",
+      "sha256": "8a0de5f40846bfed905818ab5c0551ec4930fb886a7466aafdd3d85ae0b864ec"
+    },
+    {
+      "bytes": 689,
+      "path": "dynamic/家庭/2026-08-23 06-11-47 禁忌的治療初嘗乳汁_392a5e9fba96.md",
+      "sha256": "1cc650a8edb6e91b2a61fcba39376f9aac62b01267f5dbb98a602ea4e1c7e007"
+    },
+    {
+      "bytes": 710,
+      "path": "dynamic/家庭/2026-08-23 06-11-52 新的約定播種與伊甸園之旅_3e1044c1e393.md",
+      "sha256": "a22e0e8b183f2ac2991b40774a9a59346e8f56441690c2318019ce8b4b110685"
+    },
+    {
+      "bytes": 680,
+      "path": "dynamic/恋爱/2026-08-23 06-11-48 以檢查為名的佔有品嚐花蜜_0b41eeef0fea.md",
+      "sha256": "3f32f859357f60dcfa6114b19c82a9ee5c94cd3ebf9c6d9d47430dbad75e9ebc"
+    },
+    {
+      "bytes": 702,
+      "path": "dynamic/恋爱/2026-08-23 06-11-50 成人禮貫穿與佔有的血之盟約_fa765cdeaf7b.md",
+      "sha256": "6b4d1a796e31b77f88f7cdb53985feffcdb1fcf724c3f09c0bebc6848f837bdc"
+    }
+  ],
+  "generated_at": "2026-08-23T06:18:25+00:00",
+  "path_prefix": "ombre-second",
+  "repo": "maycheungvv/Ombre-Brain",
+  "schema_version": 1,
+  "source": "ombre-brain",
+  "source_refs_complete": true,
+  "total_bytes": 3460
+}
