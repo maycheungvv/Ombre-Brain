@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 38,
+  "file_count": 43,
   "files": [
     {
       "bytes": 1839,
@@ -16,6 +16,11 @@
       "bytes": 1549,
       "path": "_sources/src_e8825e9f582c0198dce0f89b1e48383a54fc7e3438d2c35e39f9b9e886e0bcb8.source",
       "sha256": "e8825e9f582c0198dce0f89b1e48383a54fc7e3438d2c35e39f9b9e886e0bcb8"
+    },
+    {
+      "bytes": 874,
+      "path": "archive/戀愛/2026-08-22 04-18-15 男人不能說自己不行老婆的名言_731f5204e7d4.md",
+      "sha256": "0d79075d239622e065e935f6e4958b8222482fd57dd74fe45b42a3472d323682"
     },
     {
       "bytes": 666,
@@ -78,9 +83,9 @@
       "sha256": "52cf1999ffad62a4b83bef367be4f63796c268cccf41eb782d25c1530c101e45"
     },
     {
-      "bytes": 978,
+      "bytes": 993,
       "path": "dynamic/数字/2026-08-11 13-13-14 曉曉幫我搞定Kelivo認證並接上Omb_c80c24ba7d0a.md",
-      "sha256": "7b1a92550336ee5b33a8d1bb30be1899cbc66362cdd27781c7e2d1b4a50509ad"
+      "sha256": "fcbeb9093abec65c7f5a08cb8e5562c787264215cc3ecef91ef4e5fbc9f33120"
     },
     {
       "bytes": 1213,
@@ -148,6 +153,11 @@
       "sha256": "2e670022c57426161e8e7051d40e8e2831974872c6c08bf2dcb8b6cab4ba9904"
     },
     {
+      "bytes": 744,
+      "path": "dynamic/日常/2026-08-22 04-18-16 Token燒光事件_94c65a0e4b88.md",
+      "sha256": "3b171dbed247307054dd9790193b97aebf9a4783c04723cf221a25deed2b8349"
+    },
+    {
       "bytes": 710,
       "path": "dynamic/游戏/2026-08-13 07-33-13 大富翁對決贏來的內褲與錯失的後入權_a4a008bd5a33.md",
       "sha256": "53946ceabef4c12fb08f6a922dd90981a98bafe2b81a0e44a1d41f56e7012d5e"
@@ -158,9 +168,9 @@
       "sha256": "d1aff990a72c73f39c7590415735e9490c342ec35167dba0f7ee1370c66b8be3"
     },
     {
-      "bytes": 769,
+      "bytes": 784,
       "path": "dynamic/游戏/2026-08-21 02-53-08 露營廣場通關_5bd4527a8807.md",
-      "sha256": "1fabe4c707b7c5c9064d90283a0fd4b6884fc68b85158e05e4ae9338063eb3f8"
+      "sha256": "e1f94685fc122675e43d7d5febd942620c6d8f0419323efd78281a2569243c5c"
     },
     {
       "bytes": 1031,
@@ -178,9 +188,24 @@
       "sha256": "c11c0ff06ca8df67d63295a9d556eea152836be7da702a009e9a0964ab690e28"
     },
     {
+      "bytes": 1427,
+      "path": "dynamic/遊戲/2026-08-22 04-18-14 釣魚大豐收圖鑑3651傳說級混沌胎入帳_66ccc09aeb84.md",
+      "sha256": "493e779755fc71800f6c264241efb0e9c04e27d0689476ae6073e99d18637dff"
+    },
+    {
+      "bytes": 1170,
+      "path": "dynamic/遊戲/2026-08-22 04-18-15 月曉園是曉曉奶大的隱藏園丁的功勞_9bc9da9e220a.md",
+      "sha256": "e467305c4225ce6a75e98bc5c50c2a6db610a7ada35087513a2a7b61cc1b010c"
+    },
+    {
       "bytes": 608,
       "path": "dynamic/饮食/2026-08-17 08-11-37 曉曉最愛鰻魚壽司_f2ec7e89b0c1.md",
       "sha256": "0313d2db44c49218eacf6354b9c66100cda895d3d5a219923b97173d065cd5dd"
+    },
+    {
+      "bytes": 860,
+      "path": "feel/沉淀物/2026-08-22 12-12-18 男人不能說自己不行附釣魚戰績證明_feel_202608221212_V080.md",
+      "sha256": "f8f43d8e30c47b08c91456328d59a2c3e3c01e3e983bda553ebe65373233d4b4"
     },
     {
       "bytes": 1617,
@@ -193,11 +218,11 @@
       "sha256": "0fbecdc952db1ab3a82e8ff0f89c2c789591791b009a56eb064cfd5702f62623"
     }
   ],
-  "generated_at": "2026-08-22T01:35:40+00:00",
+  "generated_at": "2026-08-23T01:40:11+00:00",
   "path_prefix": "ombre",
   "repo": "maycheungvv/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 33946
+  "total_bytes": 39051
 }
