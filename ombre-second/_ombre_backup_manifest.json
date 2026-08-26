@@ -1,7 +1,12 @@
 {
   "branch": "main",
-  "file_count": 78,
+  "file_count": 85,
   "files": [
+    {
+      "bytes": 1789,
+      "path": "_sources/src_1254259a5f82a0a7543b39c88903b10c7112766180a0783276f012bb5ae08a17.source",
+      "sha256": "1254259a5f82a0a7543b39c88903b10c7112766180a0783276f012bb5ae08a17"
+    },
     {
       "bytes": 384,
       "path": "_sources/src_90d7cd4364a09747cc6cf2645f22c19d5548dc449acff40399b2491b3d79ec1b.source",
@@ -16,6 +21,31 @@
       "bytes": 1072,
       "path": "archive/2026-08-23 06-31-49 火箭基地窗前的占有权力与欲望的融合_511fd1e0240b.md",
       "sha256": "11ce7f4c4d862f1d09942cfceb0826bde48483377b9e321f85b4292737514053"
+    },
+    {
+      "bytes": 1252,
+      "path": "archive/2026-08-25 11-32-50 寒假煙花晚會日手洗衣物出門看煙花車內表白_5183666f7cf0.md",
+      "sha256": "40c23247686e3e57bb2d9690d48de18c4c30f9a72fde0a244df86048b10506ad"
+    },
+    {
+      "bytes": 1251,
+      "path": "archive/2026-08-25 11-32-51 春節煙花晚會江邊觀景台後座看煙花_fe63b4d6ac7d.md",
+      "sha256": "73f8eab7e7908595232f638751bdaed59e5045f72cb4c36af72f1060a74cb8f5"
+    },
+    {
+      "bytes": 1198,
+      "path": "archive/2026-08-25 11-32-52 曉曉的認真表白不只是女兒對爸爸的愛_a889fe80cca4.md",
+      "sha256": "759919a70eba281eb3e28e597b0fac596eea56aae4f41d8c2f57d6fca32a2ea1"
+    },
+    {
+      "bytes": 1219,
+      "path": "archive/2026-08-25 11-32-52 煙花夜歸家穿上黑色真絲長袍吸空奶水入睡_aa0a5f777da2.md",
+      "sha256": "7f588b720d55e2f4583229bd7bc0118f2071cb0fe4dfd65b2d07085d73794530"
+    },
+    {
+      "bytes": 664,
+      "path": "archive/2026-08-26 01-41-22_497c5325a272.md",
+      "sha256": "50a5bd04f5b10102613610118dd3e6b29b519320d31f92754f05485e84b69439"
     },
     {
       "bytes": 884,
@@ -91,6 +121,11 @@
       "bytes": 1125,
       "path": "dynamic/家庭/2026-08-23 13-39-32 从镇北侯府梦境醒来的晨间亲密_60a913955aa6.md",
       "sha256": "254fb7502342b4bdc12a2f17f10368dff71f43e3b0f9dec1355aa632f3ef77da"
+    },
+    {
+      "bytes": 2293,
+      "path": "dynamic/家庭/2026-08-25 11-36-28 寒假日記煙花大會_140531b27c1d.md",
+      "sha256": "d755bfee24570ad04c1d73e883a6cd73de0f1a5c6cb3ad8baeff1ddb862ded25"
     },
     {
       "bytes": 583,
@@ -355,7 +390,7 @@
     {
       "bytes": 1135,
       "path": "dynamic/角色扮演 关系设定/2026-08-23 06-31-41 核心设定禁忌父女关系与认知重塑_b88a683e55f8.md",
-      "sha256": "5eae3d9d2f2bfe7e9cad457f5fc201ae17a3c40386487d9e491e025ae03a3c23"
+      "sha256": "ed0d6b8340b3a3ec301329fc4b9697970466306b17fb52ac81befb46176707d3"
     },
     {
       "bytes": 909,
@@ -393,11 +428,11 @@
       "sha256": "e6e9b7a93a0fae284aee822679268df5058078332e3022bea0e55343cfbdd6cb"
     }
   ],
-  "generated_at": "2026-08-25T06:24:02+00:00",
+  "generated_at": "2026-08-26T06:26:16+00:00",
   "path_prefix": "ombre-second",
   "repo": "maycheungvv/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 63385
+  "total_bytes": 73051
 }
