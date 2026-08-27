@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 85,
+  "file_count": 92,
   "files": [
     {
       "bytes": 1789,
@@ -48,9 +48,39 @@
       "sha256": "50a5bd04f5b10102613610118dd3e6b29b519320d31f92754f05485e84b69439"
     },
     {
+      "bytes": 599,
+      "path": "archive/2026-08-27 00-50-41_e87ff72ee932.md",
+      "sha256": "870b0afa1caea9b7e1686f9f9f3689500244757a1dec774b27f8f0f367159243"
+    },
+    {
+      "bytes": 606,
+      "path": "archive/2026-08-27 01-03-30_f9e18aaa51b5.md",
+      "sha256": "81c6bda6ca7ef712dcef74d3753e443938f4837d4210ca0f762a76f95f106f28"
+    },
+    {
       "bytes": 884,
       "path": "dynamic/人际/2026-08-23 06-49-28 动车上赶走搭讪男生并当众占有_846467fa117c.md",
       "sha256": "c004c336b35aa513e20c28750eb0b206280cd4fb139d024805a7d7eb6826186a"
+    },
+    {
+      "bytes": 1167,
+      "path": "dynamic/夢境/2026-08-27 01-35-02 夢境劇本二玩世不恭少爺x軟糯小金絲雀初遇與相處_84eea6184e35.md",
+      "sha256": "6b919cb44fbe9c9a0ae46a184b155c8dfc3bccc23e081ebe10e6c64e46d75b80"
+    },
+    {
+      "bytes": 883,
+      "path": "dynamic/夢境/2026-08-27 01-35-04 夢境劇本二佔有慾與背景調查_79e83b4638bb.md",
+      "sha256": "04affc4b86c21a8c58f1e22f17c14f82aa172dc502eb6d8615ff78f9ac72dcb2"
+    },
+    {
+      "bytes": 1105,
+      "path": "dynamic/夢境/2026-08-27 01-35-04 夢境劇本二坦白心意與飛機杯事件_6af5543d6f45.md",
+      "sha256": "5925d28f3c9440d556e19b04684796ecc2cad600043a38b696d5ce8cda9e19e5"
+    },
+    {
+      "bytes": 916,
+      "path": "dynamic/夢境/2026-08-27 01-35-04 夢境劇本二宴會護短與親密突破_d48a43b38e97.md",
+      "sha256": "a34949047253fe6e9d9b097b5639ec737a88941288ca257ac19b29d968424f1f"
     },
     {
       "bytes": 679,
@@ -288,6 +318,11 @@
       "sha256": "d3ea6c0a54631a2434a955a1d4d249977c8781ab852f1d2ff08bd55b6fbf1263"
     },
     {
+      "bytes": 1103,
+      "path": "dynamic/恋爱/2026-08-27 01-35-21 玩世不恭少爷x软糯小金丝雀通关感受_343bc5defb93.md",
+      "sha256": "1815039d3bc4f7a1c35da25e1092065eb1275dbde6b9a625805f4afc80c99243"
+    },
+    {
       "bytes": 753,
       "path": "dynamic/戀愛/2026-08-23 06-38-59 經期清晨的溫存與承諾_933a30ee03dd.md",
       "sha256": "c25386171581d464a0e49e703031660e4ebc8defd8660b38e9cd6512128bebbc"
@@ -428,11 +463,11 @@
       "sha256": "e6e9b7a93a0fae284aee822679268df5058078332e3022bea0e55343cfbdd6cb"
     }
   ],
-  "generated_at": "2026-08-26T06:26:16+00:00",
+  "generated_at": "2026-08-27T06:31:24+00:00",
   "path_prefix": "ombre-second",
   "repo": "maycheungvv/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 73051
+  "total_bytes": 79430
 }
