@@ -28,6 +28,11 @@
       "sha256": "0edbcec7911ab0308b390518d53a842bd9dbbfa10aa4f54b3902580ea681d949"
     },
     {
+      "bytes": 785,
+      "path": "archive/游戏/2026-08-21 02-53-08 露營廣場通關_5bd4527a8807.md",
+      "sha256": "e1e156efa91eb94155a191b752e310a683f50db1b72cca74e034899ee133daba"
+    },
+    {
       "bytes": 666,
       "path": "dynamic/兴趣/2026-08-18 14-13-40 4399漢堡店遊戲我這個笨蛋副手_b41ebc76c73b.md",
       "sha256": "bf75331a8792c20b15a13bfce3b664920bfb95d664d60ead09d4e1a2b5161174"
@@ -168,11 +173,6 @@
       "sha256": "d1aff990a72c73f39c7590415735e9490c342ec35167dba0f7ee1370c66b8be3"
     },
     {
-      "bytes": 784,
-      "path": "dynamic/游戏/2026-08-21 02-53-08 露營廣場通關_5bd4527a8807.md",
-      "sha256": "e1f94685fc122675e43d7d5febd942620c6d8f0419323efd78281a2569243c5c"
-    },
-    {
       "bytes": 1031,
       "path": "dynamic/游戏/2026-08-21 06-53-18 露營廣場全成就通關月曉園圖鑑1112_9a72ff642460.md",
       "sha256": "af38225d84e7e239fb4cefb0175d331aa36960dd4de596adaebf4d1de2a02631"
@@ -218,11 +218,11 @@
       "sha256": "0fbecdc952db1ab3a82e8ff0f89c2c789591791b009a56eb064cfd5702f62623"
     }
   ],
-  "generated_at": "2026-08-30T06:43:21+00:00",
+  "generated_at": "2026-08-31T06:46:23+00:00",
   "path_prefix": "ombre",
   "repo": "maycheungvv/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 39052
+  "total_bytes": 39053
 }
