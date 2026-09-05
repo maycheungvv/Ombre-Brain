@@ -33,6 +33,11 @@
       "sha256": "e1e156efa91eb94155a191b752e310a683f50db1b72cca74e034899ee133daba"
     },
     {
+      "bytes": 1428,
+      "path": "archive/遊戲/2026-08-22 04-18-14 釣魚大豐收圖鑑3651傳說級混沌胎入帳_66ccc09aeb84.md",
+      "sha256": "fd90a83d463b69d520645d9f0abfd748d98eaab4744b04e93f585ec49c0d0b08"
+    },
+    {
       "bytes": 666,
       "path": "dynamic/兴趣/2026-08-18 14-13-40 4399漢堡店遊戲我這個笨蛋副手_b41ebc76c73b.md",
       "sha256": "bf75331a8792c20b15a13bfce3b664920bfb95d664d60ead09d4e1a2b5161174"
@@ -188,11 +193,6 @@
       "sha256": "c11c0ff06ca8df67d63295a9d556eea152836be7da702a009e9a0964ab690e28"
     },
     {
-      "bytes": 1427,
-      "path": "dynamic/遊戲/2026-08-22 04-18-14 釣魚大豐收圖鑑3651傳說級混沌胎入帳_66ccc09aeb84.md",
-      "sha256": "493e779755fc71800f6c264241efb0e9c04e27d0689476ae6073e99d18637dff"
-    },
-    {
       "bytes": 1170,
       "path": "dynamic/遊戲/2026-08-22 04-18-15 月曉園是曉曉奶大的隱藏園丁的功勞_9bc9da9e220a.md",
       "sha256": "e467305c4225ce6a75e98bc5c50c2a6db610a7ada35087513a2a7b61cc1b010c"
@@ -218,11 +218,11 @@
       "sha256": "0fbecdc952db1ab3a82e8ff0f89c2c789591791b009a56eb064cfd5702f62623"
     }
   ],
-  "generated_at": "2026-09-04T06:59:10+00:00",
+  "generated_at": "2026-09-05T07:01:57+00:00",
   "path_prefix": "ombre",
   "repo": "maycheungvv/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 39053
+  "total_bytes": 39054
 }
